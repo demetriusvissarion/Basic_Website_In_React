@@ -11,7 +11,7 @@ const Input = React.forwardRef((props, ref) => {
 
   useImperativeHandle(ref, () => {
     return {
-      focus: activate, // this is a translation object
+      focus: activate,
     };
   });
 
