@@ -1,5 +1,3 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-
 <a name="readme-top"></a>
 
 <!--
@@ -33,7 +31,7 @@
     <a href="https://github.com/demetriusvissarion/Basic_Website_In_React"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/demetriusvissarion/Basic_Website_In_React">View Demo</a>
+    <a href="https://basicpageinreact.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/demetriusvissarion/Basic_Website_In_React/issues">Report Bug</a>
     ·
@@ -158,6 +156,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Demetrius Vissarion - demetrius.vissarion@gmail.com
 
 Project Link: [https://github.com/demetriusvissarion/Basic_Website_In_React](https://github.com/demetriusvissarion/Basic_Website_In_React)
+Deployed Website: [https://basicpageinreact.netlify.app/](https://basicpageinreact.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
